@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	font-size: 5rem;
+	font-family: sans-serif;
+	color: #22222299;
+}
+
+h2 {
+	font-size: 2.5rem;
+	color: #2222227d;
+}
+
+p {
+	font-size: 1.2rem;
+	font-weight: 600;
+	color: #222222a9;
+	font-family: sans-serif;
+}
